@@ -3,8 +3,8 @@ RENCANAN KONTEN AF
 - Javascript
   * ES6
   * Framework Javascript
-    - Vue
-    - React
+    ^ Vue
+    ^ React
 - Strukutur Data Dasar
 - PHP Framework
   * Laravel
