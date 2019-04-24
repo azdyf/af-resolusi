@@ -3,7 +3,10 @@ RENCANAN KONTEN AF
 - Javascript
   * ES6
   * Framework Javascript
+    - Vue
 - Strukutur Data Dasar
 - PHP Framework
+  * Laravel
 - Interview
 - Vlog
+- Python
