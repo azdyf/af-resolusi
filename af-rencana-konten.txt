@@ -3,6 +3,7 @@ RENCANAN KONTEN AF
 - Javascript
   * ES6
   * Framework Javascript
+- Strukutur Data Dasar
 - PHP Framework
 - Interview
 - Vlog
