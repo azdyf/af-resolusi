@@ -5,6 +5,7 @@ RENCANAN KONTEN AF
   * Framework Javascript
     ^ Vue
     ^ React
+    ^ Angular
 - Strukutur Data Dasar
 - PHP Framework
   * Laravel
